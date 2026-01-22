@@ -60,9 +60,9 @@ git commit --amend -m "Обновленный комит"
 git push
 ```
 
-## Задание В3
+## В3
 
-![Схема](https://ibb.co/d4CFW6y7)
+![Схема](shema.png)
 
 По любым вопросам:
 https://t.me/kirillgultcev322
