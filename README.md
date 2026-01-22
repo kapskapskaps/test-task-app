@@ -59,3 +59,10 @@ git stash pop
 git commit --amend -m "Обновленный комит"
 git push
 ```
+
+## Задание В3
+
+![Схема](https://ibb.co/d4CFW6y7)
+
+По любым вопросам:
+https://t.me/kirillgultcev322
